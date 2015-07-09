@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  MovieSearch
+//
+//  Created by Christian Graver Larsen on 08/07/15.
+//  Copyright (c) 2015 gravr. All rights reserved.
+//
+
+#ifndef MovieSearch_PrefixHeader_pch
+#define MovieSearch_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "MSConstants.h"
+
+#endif
